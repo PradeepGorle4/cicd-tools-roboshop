@@ -18,6 +18,11 @@ variable "zone_id" {
   description = "description"
 }
 
-variable "sonar" {
-  default = false
+# variable "sonar" {
+#   default = false
+# }
+
+variable "ami_id" {
+   type  = string
+   default = "ami-09c813fb71547fc4f"
 }
