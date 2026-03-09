@@ -8,13 +8,13 @@ variable "environment" {
 
 variable "zone_name" {
   type        = string
-  default     = "daws86s.fun"
+  default     = "devopslife.store"
   description = "description"
 }
 
 variable "zone_id" {
   type        = string
-  default     = "Z0948150OFPSYTNVYZOY"
+  default     = "Z06363132PDIUMYA8EVE3"
   description = "description"
 }
 
